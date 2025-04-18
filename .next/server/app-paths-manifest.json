@@ -1,0 +1,8 @@
+{
+  "/api/like-sender/route": "app/api/like-sender/route.js",
+  "/api/player-info/route": "app/api/player-info/route.js",
+  "/page": "app/page.js",
+  "/player-info/page": "app/player-info/page.js",
+  "/visit-sender/page": "app/visit-sender/page.js",
+  "/like-sender/page": "app/like-sender/page.js"
+}
